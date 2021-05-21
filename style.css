@@ -63,3 +63,15 @@ body {
     width: 100%;
   }
 }
+@media screen and (max-width: 768px) {
+  .banner {
+    background-color: blue;
+  }
+  .content {
+    width: 100%;
+  }
+  .sideboard {
+    width: 100%;
+    background-color: rgb(223, 174, 14);
+  }
+}
