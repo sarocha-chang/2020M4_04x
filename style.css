@@ -75,3 +75,11 @@ body {
     background-color: rgb(223, 174, 14);
   }
 }
+@media screen and (max-width: 1024px) {
+  .content {
+    width: 50%;
+  }
+  .sideboard {
+    width: 50%;
+  }
+}
